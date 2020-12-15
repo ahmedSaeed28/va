@@ -1,0 +1,10 @@
+const String appName = "VA Computing";
+const String pendingEquations = "Pending Equations";
+const String finishedEquations = "Finished Equations";
+const String firstNumber = "First Number";
+const String secondNumber = "Second Number";
+const String operation = "Operation";
+const String delayOperation = "Delay operation with";
+const String seconds = "Seconds";
+const String calculate = "Calculate";
+const String getCurrentLocation  = "Get current location";
